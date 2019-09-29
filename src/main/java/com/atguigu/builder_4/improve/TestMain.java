@@ -1,6 +1,5 @@
 package com.atguigu.builder_4.improve;
 
-import com.atguigu.builder_4.CommonHouse;
 
 /**
  * 设计模式 4：建造者模式

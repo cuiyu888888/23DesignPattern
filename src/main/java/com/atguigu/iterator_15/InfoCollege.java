@@ -1,19 +1,10 @@
-package com.atguigu.iterator_15;/**
- * @Author 崔雨
- * @Date 2019/10/2 23:50
- * @Description: ${todo}
- */
+package com.atguigu.iterator_15;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * @program: 23DesignPattern
- * @description:
- * @author: Mr.Wang
- * @create: 2019-10-02 23:50
- **/
+
 public class InfoCollege implements College {
 
     List<Department> departmentList;

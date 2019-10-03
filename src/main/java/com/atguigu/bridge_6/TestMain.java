@@ -11,7 +11,7 @@ package com.atguigu.bridge_6;
  *      它的主要特点是把抽象（abstraction）与行为实现（implementation）分离开来，从而可以保持各部分的独立性以及应对它们的功能扩展。
  *
  *  三、桥接模式的角色和职责
- *         Client ：Bridge模式的使用者
+ *         TestMain ：Bridge模式的使用者
  *         Abstraction ：抽象类接口（接口或抽象类）维护对行为实现（Implementor）的引用
  *         Refined Abstraction ：Abstraction子类
  *         Implementor ：行为实现类接口 (Abstraction接口定义了基于Implementor接口的更高层次的操作)
